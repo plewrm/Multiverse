@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>arrow_back_white</title>
+	<defs>
+		<image  width="48" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAYCAMAAACLI47uAAAAAXNSR0IB2cksfwAAAKtQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////za+omQAAADl0Uk5TAE7l7FRJ+v/rOvXnLu79VSLmbxbZfA/PlArDowIFtrIEp8WW34Tkg95Ixgu1swnCpM59cFLg40xL+5Fk2gAAANpJREFUeJyVlNsLAVEQxueTTSL3RGzSZiVaj/7/N7m9kfKyJJdYkVwSZZbdfd058/Cdefh+NefMzAEFAY43hQWCTAMITzkQx4coehMDSbyIYrhIgQzurIlTqN8D8riypg7h/j9QxJk1uxP4f0AZDmsBayGgY89JCbbEz0BV2/BZeWxFfgYMUSVe6Es0Vgp+ohqatiKgVlId/qUNTGWI+6zpBSfmVVab2zgLc9bWUdo4Ho3KjFRGwx++9kQMeOPdGYsBb4HMkRj4r6g1lAO/T6A7UACo5+Qi/VDgCyRgLZNF6EOsAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="13"/>
+</svg>
